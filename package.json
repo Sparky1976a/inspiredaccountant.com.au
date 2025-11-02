@@ -1,1 +1,1 @@
-{"name":"backend","version":"1.0.0","description":"Basic Node.js backend with Express for file uploading and downloading","main":"server.js","scripts":{"start":"node server.js"},"dependencies":{"express":"^4.17.1","multer":"^1.4.2"}}
+{"name":"backend","version":"1.0.0","description":"Basic Node.js backend with Express for file uploading and downloading","main":"server.js","scripts":{"start":"node server.js"},"dependencies":{"express":"^4.17.1","multer":"^2.0.2"}}
